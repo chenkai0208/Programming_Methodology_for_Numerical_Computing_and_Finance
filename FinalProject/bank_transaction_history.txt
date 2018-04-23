@@ -1,0 +1,16 @@
+Buy_Stock	10	Wed Dec 20 16:53:16 2017
+	4310.36
+Buy_Stock	100	Wed Dec 20 16:56:36 2017
+	7038
+Buy_Stock	10	Wed Dec 20 16:56:36 2017
+	1348.36
+Sell_Stock	20	Wed Dec 20 16:56:36 2017
+	12727.6
+Sell_Stock	5	Wed Dec 20 16:56:36 2017
+	15577.5
+Sell_Stock	100	Wed Dec 20 16:56:36 2017
+	18639.5
+Withdraw	20000	Wed Dec 20 16:56:36 2017
+	-1360.54
+Deposit	2000	Wed Dec 20 16:56:36 2017
+	639.46
